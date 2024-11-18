@@ -34,8 +34,6 @@
 
 ## 🖥️ Screenshots
 
-*(Add images showcasing the profile curve editor, 3D mesh viewer, and various surfaces of revolution.)*
-
 ![Gif](./Demo/Demo.gif)
 ---
 
